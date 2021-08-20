@@ -1,0 +1,520 @@
+   
+
+.des7{
+          position: absolute;
+          top: 171px;
+        left: 77px;
+
+          
+height: 28px;
+text-align: center;
+font: normal normal 300 20px/80px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+      }
+      .des{
+          position: absolute;
+          top: 171px;
+          left: 32px;
+        
+
+height: 28px;
+text-align: center;
+font: normal normal 300 20px/80px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+      }
+      .on{
+          left: 65px;
+          top: 77px;
+          position: absolute;
+        
+height: 84px;
+text-align: center;
+font: normal normal 300 60px/65px Poppins;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+      }
+
+      .scm{
+          position: absolute;
+          top: 34px;
+        left: 115px;
+width: 39px;
+height: 34px;
+background: transparent url('img/heart (2).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+      }
+       .wa{
+          position: absolute;
+          top: 3754px;
+        left: 1275px;
+width: 270px;
+height: 233px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+
+opacity: 1;
+      }
+       .cp{
+          position: absolute;
+          top: 3754px;
+        left: 975px;
+width: 270px;
+height: 233px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+
+opacity: 1;
+       }
+.cp:hover, .do:hover, .sc:hover, .wa:hover{
+    box-shadow: 3px 6px 20px #672C2C1F; 
+}
+      
+       .do{
+          position: absolute;
+          top: 3754px;
+        left: 675px;
+width: 270px;
+height: 233px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+
+opacity: 1;
+      }
+      .sc{
+          position: absolute;
+          top: 3754px;
+        left: 375px;
+width: 270px;
+height: 233px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+
+opacity: 1;
+      }
+      .ocg{
+          position: absolute;
+          top: 3649px;
+        left: 682px;
+
+height: 45px;
+text-align: center;
+font: normal normal bold 45px/65px Cormorant SC;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+      }
+      .eg{
+          position: absolute;
+          top: 3585px;
+        left: 847px;
+width: 226px;
+height: 24px;
+text-align: center;
+font: normal normal 600 24px/26px Cormorant SC;
+letter-spacing: 0px;
+color: #FF3147;
+text-transform: uppercase;
+opacity: 1;
+      }
+    .cont{
+                
+width: 1920px;
+height: auto;
+background: #FAFAFA 0% 0% no-repeat padding-box;
+opacity: 1;
+    }
+
+/* ------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+    .tri-state-toggle-button {
+        
+        height: 44px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 44px;
+        background-color: transparent;
+        border: 0px solid transparent;
+        margin: 2px;
+        color: #d9dde4;
+        cursor: pointer;
+      
+    /*    -webkit-transition: all 0.5s ease-in-out;
+      -moz-transition:    all 0.5s ease-in-out;
+      -ms-transition:     all 0.5s ease-in-out;
+      -o-transition:      all 0.5s ease-in-out; */
+      transition:         all 0.5s linear;
+    }
+    .thead{
+        color: rgb(240, 223, 223);
+    }
+    .thead.active{
+    
+        color: rgb(6, 7, 7);
+    }
+    .tri-state-toggle-button.active {
+        background-color: #FF3147;
+        
+       
+        color: #fff;
+        font-weight: 500;
+    }
+    
+    
+    .tri-state-toggle-button:focus {
+      outline: none;
+    }
+    
+    
+    
+    
+    
+    .tog{
+        position: absolute;
+            top: 831px;
+            left: 1175px;
+    width: 370px;
+    height: 189px;
+    background: #FF3147 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+        
+    }
+    .tpar{
+            position: absolute;
+            top: 77px ;
+            left: 30px;
+    width: 293px;
+    height: 79px;
+    text-align: left;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        }
+    .spar{
+            position: absolute;
+            top: 77px ;
+            left: 30px;
+    width: 293px;
+    height: 79px;
+    text-align: left;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        }
+           .thead{
+            position: absolute;
+            left: 30px;
+            top: 34px;
+    font-size: 20px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins !important;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        }
+           .shead{
+            position: absolute;
+            left: 30px;
+            top: 34px;
+    font-size: 20px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins !important;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        }
+            .thbt{
+            position: absolute;
+            top: 3176px;
+            left: 1175px;
+    width: 370px;
+    height: 189px;
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    opacity: 1;
+        }
+        .secbt{
+            position: absolute;
+            top: 2987px;
+            left: 1175px;
+    width: 370px;
+    height: 189px;
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    opacity: 1;
+        }
+    
+        .fpar{
+            position: absolute;
+            top: 77px ;
+            left: 30px;
+    width: 293px;
+    height: 79px;
+    text-align: left;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        }
+        .fhead{
+            position: absolute;
+            left: 30px;
+            top: 34px;
+    font-size: 20px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins !important;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        }
+        .fstbt{
+            position: absolute;
+            top: 2798px;
+            left: 1175px;
+    width: 370px;
+    height: 189px;
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    opacity: 1;
+        }
+    
+        .ima{
+            position: absolute;
+            top: 2798px;
+            left: 375px;
+    width: 770px;
+    height: 567px;
+    background: transparent url('../Images/image.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+        }
+    .wrb2{
+        position: absolute;
+        top: 2693px;
+        left: 746px;
+    width: 428px;
+    height: 45px;
+    text-align: center;
+    font: normal normal bold 45px/65px Cormorant SC !important;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+    }
+    .ourp{
+        position: absolute;
+        top: 2629px;
+        left: 874px;
+    width: 172px;
+    height: 24px;
+    text-align: center;
+    font: normal normal 600 24px/26px Cormorant SC;
+    letter-spacing: 0px;
+    color: #FF3147;
+    text-transform: uppercase;
+    opacity: 1;
+    }
+    
+    .lor4{
+            text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    left: 1275px;
+    width: 256px;
+    height: 75px;
+    top: 2374px;
+        }
+        .im4{
+                display: block;
+                
+    
+    position: absolute;
+    left: 1275px;
+    width: 70px;
+    height: 65px;
+    top: 2241px;
+    background: transparent url('../Images/4.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;}
+        
+                .cvt4{
+            
+            height: 28px;
+                
+                    text-align: left;
+            font: normal normal medium 20px/80px Poppins !important;
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;
+            top: 2331px;
+            left: 1275px;}
+            .cvt3{
+            
+            height: 28px;
+                
+                    text-align: left;
+            font: normal normal medium 20px/80px Poppins !important;
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;
+            top: 2331px;
+            left: 975px;}
+            .im2{
+                display: block;
+                
+    
+    position: absolute;
+    left: 675px;
+    width: 70px;
+    height: 65px;
+    top: 2246px;
+    background: transparent url('./Images/2.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;}
+            .im3{
+                display: block;
+                
+    
+    position: absolute;
+    left: 975px;
+    width: 70px;
+    height: 65px;
+    top: 2236px;
+    background: transparent url('../Images/3.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;}
+        .lor3{
+            text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    left: 975px;
+    width: 256px;
+    height: 75px;
+    top: 2374px;
+        }
+        .lor2{
+            text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    left: 675px;
+    width: 256px;
+    height: 75px;
+    top: 2374px;
+    
+        }
+        .cvt2{
+            
+            height: 28px;
+                
+                    text-align: left;
+            font: normal normal medium 20px/80px Poppins !important;
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;
+            top: 2331px;
+            left: 675px;}
+        .im2{
+                display: block;
+                
+    width: 72px;
+    height: 72px;
+    position: absolute;
+    left: 675px;
+    width: 70px;
+    height: 65px;
+    top: 2246px;
+    background: transparent url('../Images/2.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;}
+        .lor1{
+            
+            text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    left: 375px;
+    width: 256px;
+    height: 75px;
+    top: 2374px;
+    
+    
+        }
+        .cvt{
+            
+    height: 28px;
+        
+            text-align: left;
+    font: normal normal medium 20px/80px Poppins !important;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    top: 2331px;
+    left: 375px;}
+    
+        .im{
+                display: block;
+                
+    width: 72px;
+    height: 72px;
+    background: transparent url('./Images/1.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    z-index: 0;
+    position: absolute;
+    top: 2239px;
+    left: 375px;
+                
+            }
+        .wrb{
+            text-align: center;
+    font: normal normal bold 45px/65px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+    width: 428px;
+    height: 45px;
+    position: absolute;
+    top: 2131px;
+    left: 746px;
+        }
+    .wcs{
+        width: 206px;
+    height: 24px;
+    text-align: center;
+    font: normal normal 600 24px/26px Cormorant SC;
+    letter-spacing: 0px;
+    color: #FF3147;
+    opacity: 1;
+    position: absolute;
+    top: 2067px;
+    left: 837px;
+    
+    }
+    .cont{
+        
+        width: 1920px;
+    }
+    

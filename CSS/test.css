@@ -1,0 +1,86 @@
+
+    .aut{
+        position: absolute;
+        top: 4458px;
+        left: 718px;
+
+height: 28px;
+text-align: left;
+font: normal normal 300 20px/34px Poppins;
+letter-spacing: 0px;
+color: #808080;
+opacity: 1;
+    }
+    .jt{
+        position: absolute;
+        top: 4458px;
+        left: 554px;
+        bottom: 410px;
+width: 156px;
+height: 28px;
+text-align: left;
+font: normal normal bold 20px/34px Poppins;
+letter-spacing: 0px;
+color: #FF3147;
+opacity: 1;
+    }
+    .tx{
+        position: absolute;
+        top: 4372px;
+        left: 554px;
+width: 831px;
+height: 62px;
+text-align: left;
+font: normal normal normal 20px/34px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+    }
+.ps{
+    position: absolute;
+    top: 4251px;
+    left: 661px;
+width: 598px;
+height: 45px;
+text-align: center;
+font: normal normal bold 45px/65px Cormorant SC;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+    .cf{
+        position: absolute;
+        top: 4187px;
+        left: 839px;
+
+height: 24px;
+text-align: center;
+font: normal normal 600 24px/26px Cormorant SC;
+letter-spacing: 0px;
+color: #FF3147;
+text-transform: uppercase;
+opacity: 1;
+    }
+    .imz{
+        position: absolute;
+        top: 130px;
+        left: 375px;
+width: 1170px;
+height: 56px;
+background: transparent url('Images/Group 500.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+    }
+    .fut{
+        position: absolute;
+        left: 0px;
+        top: 4586px ;
+width: 1920px;
+height: 310px;
+background: #FF3147;
+opacity: 0.81;
+    }
+    .body{
+height: 4896px;
+width: 1920px;
+    }

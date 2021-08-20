@@ -1,0 +1,117 @@
+.container {
+	width: 4896px;
+	height: 100vh;
+}
+.fsec {
+	height: auto;
+    width:auto;
+	background-color: rgb(255, 242, 242);
+    margin-top: 0px;
+    margin-left: -8.3vw;
+    margin-right: -8.4vw;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+.midsec {
+	height: auto;
+    width:auto;
+	height: auto;
+	background-color: #FAFAFA;
+    margin-top: 0px;
+    margin-left: -8.3vw;
+    margin-right: -8.4vw;
+    top: 937px;
+    left: -4px;
+    padding-top: 0px;
+
+}
+.col {
+	padding: 0px;
+	text-align: center;
+	background-color: #999;
+}
+.yash {
+    margin-right: -1.6vh;
+    margin-top: 100px;
+    min-width: 500px;
+    margin-left: -2.4vw;
+    
+    min-height: 100px; 
+   
+    opacity: 1;
+   
+}
+
+.contbut{
+    background: #FF3147 0% 0% no-repeat padding-box;
+border-radius: 2px;
+opacity: 1;
+text-align: left;
+font: normal normal 600 14px/26px Poppins;
+letter-spacing: 1.4px;
+color: #FFFFFF;
+opacity: 1;
+margin-top: 75px;
+text-transform: uppercase;
+}
+
+.moddes{
+    min-height: 362px;
+    min-width: 450px;
+    vertical-align: middle;
+}
+.modt{
+    top: 31px;
+left: 32px;
+width: 93px;
+height: 26px;
+text-align: left;
+letter-spacing: 0.4px;
+color: #2D3142;
+opacity: 1;
+font-family: AktivGrotesk-Bold;
+}
+.cemail{
+    top: 89px;
+left: 32px;
+width: 386px;
+height: 27px;
+margin-left: 32px;
+margin-right: 32px;
+
+}
+.bod{
+    border-top: 0px !important;
+    border-right: 0px;
+    border-left: 0px;
+    border-radius: 0px;
+    border-width: 1px;
+}
+.fname{
+    top: 156px;
+left: 32px;
+width: 178px;
+height: 27px;
+opacity: 1;
+margin-left: 32px;
+margin-right: 240px;
+}
+.chk{
+    top: 224px;
+left: 57px;
+width: 357px;
+height: 39px;
+}
+.cont{
+    top: 0px;
+left: 0px;
+width: 450px;
+height: 362px;
+}
+
+.lname{
+    top: 156px;
+    left: 240px;
+    width: 178px;
+    height: 27px;
+}

@@ -1,0 +1,167 @@
+
+        
+        .im{
+            display: block;
+            left: 127px;
+            top: 20px;
+            right: 21px;
+            width:37px ;
+            height: 10px;
+            position: absolute;
+            background: transparent url('../Images/arrow.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+z-index: 1;
+            
+        }
+        .button{
+            width: 185px;
+height: 50px;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 2px;
+opacity: 1;
+position: relative;
+left: 93px;
+right: 92px;
+text-align: left;
+
+        }
+        .btc{
+            color: #ffff;
+        }
+        /* entire container, keeps perspective */
+.flijp-container {
+	perspective: 1000px;
+  -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+	-webkit-perspective: 1000;
+    -moz-perspective: 1000;
+    -o-perspective: 1000;
+    
+}
+/* flip the pane when hovered */
+.flip-container:hover .flipper, .flip-container.hover .flipper {
+	transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+	width: 370px;
+	height: 400px;
+    padding: 0px;
+    top: 209.58px;
+    bottom: 292.42px;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+	position: absolute;
+	top: 209.58px;
+    bottom: 292.42px;
+	left: 0;
+    right: 0;
+    width: 370px;
+    height: 526px;
+  padding: 0px;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  	background: #ebecf0;
+      width: 370px;
+      height: 526px;
+      padding: 0px;
+      border-radius: 5px;
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  width: 370px;
+      height: 526px;
+      top: 209.58px;
+    bottom: 292.42px;
+    background-color: #FF3147;
+    opacity: 86%;
+    border-radius: 5px;
+}
+.thumbnail{
+background: none;
+  border: none;
+}
+.mb{margin-bottom: 20px;}
+.ww{
+    position: absolute;
+    font-family: Cormorant SC, sans-serif;
+    top: 1037px;
+    font-size: 24px;
+    
+left: 373px;
+
+height: 24px;
+text-align: left;
+font: normal normal 600 24px/26px Cormorant SC;
+letter-spacing: 0px;
+color: #FF3147;
+opacity: 1;
+}
+.spy{
+    position: absolute;
+    top: 1101px;
+left: 373px;
+width: 442px;
+height: 110px;
+text-align: left;
+font: normal normal bold 45px/65px Cormorant SC;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+.mor{
+    position: absolute;
+    top: 1114px;
+left: 960px;
+width: 584px;
+height: 83px;
+text-align: left;
+font: normal normal normal 16px/30px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.location{
+    position: absolute;
+    top: 1271px;
+}
+.conts{
+height: 1030px ;
+width: 1920px;
+}
+.carousel-indicators-numbers, li {
+    
+      text-indent: 0;
+      margin: 0 2px;
+      width: 30px;
+      height: 30px;
+      border: none;
+      border-radius: 100%;
+      line-height: 30px;
+      color: #fff;
+      background-color: #999;
+      transition: all 0.25s ease;
+
+
+}
+    

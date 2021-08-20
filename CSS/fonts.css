@@ -1,0 +1,41 @@
+.yashfont {
+    font: normal normal 600 Cormorant SC;
+        font-size: 30px;
+        color: #ff3747;
+    text-transform: uppercase;
+    opacity: 1;
+    
+        font-weight: 210;
+        letter-spacing: 0;
+        
+      }
+      .morbi{
+        text-align: left;
+font: normal normal normal 16px/30px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+margin-top: 20px;
+      }
+
+      .des{
+        font-family: 'Cormorant SC', serif;
+        text-transform: uppercase;
+        letter-spacing: 0px;
+        opacity: 1;
+        color: black;
+        font-weight: normal bold;
+      }
+      .wwd{
+
+        
+
+        font: normal normal 600 Cormorant SC;
+        font-size: 30px;
+        color: #ff3747;
+    text-transform: uppercase;
+    opacity: 1;
+    
+        font-weight: 210;
+        letter-spacing: 0;
+      }
