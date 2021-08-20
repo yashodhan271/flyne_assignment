@@ -339,6 +339,20 @@ opacity: 1;
     height: 75px;
     top: 2374px;
         }
+
+ .im1{
+        display: block;
+                
+    width: 72px;
+    height: 72px;
+    position: absolute;
+    left: 375px;
+    width: 70px;
+    height: 65px;
+    top: 2246px;
+    background: transparent url('../Images/1.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;}
+
         .im4{
                 display: block;
                 
